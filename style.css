@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+    
+}
+
+.container,
+ header, 
+ section {
+  text-align: center;
+   text-justify: center;
+
+   background-color: white;
+   max-width: 500px;
+   margin: 0 auto;
+}
+
+
+
+
